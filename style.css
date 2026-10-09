@@ -1,3 +1,5 @@
 P, body, table { color : #000000;
                  font-size: inherit}
-table {width: 700px; overflow-x: auto}
+         table {width: 700px; 
+                overflow-x: auto;
+                font-size: inherit}
