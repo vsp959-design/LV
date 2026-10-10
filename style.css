@@ -1,6 +1,8 @@
 P, body, table { color : #000000;
                  font-size: 12pt}
-   table,tbody {width: 700px; 
+per,table,tbody {width: 700px; 
                 overflow-x: auto;
-                font-size: inherit
+                font-size: inherit;
+                -webkit-text-size-adjust: 100%;
+                -moz-text-size-adjust: 100%;
                 text-size-adjust: 100%}
